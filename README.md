@@ -1,5 +1,5 @@
 
 
-_<p align="center">"Netflix Clone"</p>_
+_<h1 align="center">"Netflix Clone"</h1>_
 
 
